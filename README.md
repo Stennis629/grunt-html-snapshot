@@ -1,4 +1,4 @@
-# grunt-html-snapshot
+# Grunt-HTML-Snapshot
 
 > Makes it easy to provide html snapshots for client side applications so that they can be indexed by web crawlers
 
@@ -20,10 +20,10 @@ grunt.loadNpmTasks('grunt-html-snapshot');
 ```
 
 
-## htmlSnapshot task
+## HTMLSnapshot task
 _Run this task with the `grunt htmlSnapshot` command._
 
-## configuring the htmlSnapshot task
+## Configuring The HTMLSnapshot Task
 
 ```js
     grunt.initConfig({
